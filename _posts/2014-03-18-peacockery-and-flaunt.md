@@ -10,7 +10,7 @@ comment: true
 multilingual: false
 tags:
     - 思考
-    - 认识能力
+    - 认知能力
 ---
 
 最近越来越觉得

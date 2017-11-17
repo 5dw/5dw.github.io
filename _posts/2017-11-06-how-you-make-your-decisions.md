@@ -11,7 +11,7 @@ comment: true
 multilingual: false
 tags:
     - 思考
-    - 认识能力
+    - 认知能力
 ---
 
 在[前一篇关于知识的文章](http://5dw.top/2017/11/04/what-is-your-knowledge/)里，我表达了我对知识分为显性知识和隐性知识的理解。我说过

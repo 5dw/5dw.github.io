@@ -10,7 +10,7 @@ comment: true
 multilingual: false
 tags:
     - 思考
-    - 人际关系
+    - 认知能力
 ---
 
 

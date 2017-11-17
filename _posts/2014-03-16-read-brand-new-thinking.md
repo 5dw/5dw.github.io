@@ -10,7 +10,7 @@ comment: true
 multilingual: false
 tags:
     - 读书笔记
-    - 认识能力
+    - 认知能力
 ---
 
 三项进步致使发达国家主流人才不得不思考改变自己所重视的技能：

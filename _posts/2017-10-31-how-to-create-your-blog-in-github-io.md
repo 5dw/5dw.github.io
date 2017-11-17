@@ -9,10 +9,6 @@ header-mask: 0.3
 catalog:    true
 comment: true
 multilingual: false
-tags:
-    - 博客
-    - Github
-    - Jekyll
 ---
 
 ### 前提条件

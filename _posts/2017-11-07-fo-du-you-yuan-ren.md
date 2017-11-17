@@ -10,11 +10,8 @@ catalog:    false
 comment: true
 multilingual: false
 tags:
-    - 信息
-    - 沟通
-    - 教育
-    - 学习
-
+    - 思考
+    - 认知能力
 ---
 
 我们在[信息论](http://5dw.top/2017/11/03/get-more-in-the-theory-of-information/)那一篇里面解释了信息量（绝对和相对）的概念，在[知识](http://5dw.top/2017/11/04/what-is-your-knowledge/)那一篇里说了显性知识和隐性知识。

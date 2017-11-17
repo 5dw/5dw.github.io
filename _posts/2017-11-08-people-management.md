@@ -10,7 +10,7 @@ catalog:    false
 comment: true
 multilingual: false
 tags:
-    - 管理
+    - 企业管理
     - 思考
 ---
 
