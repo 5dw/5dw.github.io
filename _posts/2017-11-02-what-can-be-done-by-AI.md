@@ -11,9 +11,7 @@ comment: true
 multilingual: false
 tags:
     - 人工智能
-    - AI
     - 思考
-    -
 ---
 
 > 最近两年AI大热。

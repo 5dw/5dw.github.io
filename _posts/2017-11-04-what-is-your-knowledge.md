@@ -10,9 +10,8 @@ catalog:    true
 comment: true
 multilingual: false
 tags:
-    - 知识
     - 思考
-    -
+    - 认识能力
 ---
 
 很多人都有去市场买肉的经历，当你告诉卖肉师傅需要几斤几两后，他可以几乎分毫不差地一刀切给你。堪称神刀。
