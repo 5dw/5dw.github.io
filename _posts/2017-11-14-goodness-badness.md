@@ -11,7 +11,6 @@ comment: true
 multilingual: false
 tags:
     - 思考
-    - 意义
 ---
 
 先来讲一个每个人都知道的典故故事，“塞翁失马，焉知非福”。
