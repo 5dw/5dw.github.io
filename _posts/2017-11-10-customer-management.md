@@ -11,7 +11,6 @@ comment: true
 multilingual: false
 tags:
     - 企业管理
-    - 思考
 ---
 
 在前面一篇[员工管理](http://5dw.top/2017/11/08/people-management/)的开头，我提到，在我的理论中企业管理有三个很重要的方面，分别是**员工管理**、**业务管理**和**客户管理**。今天我说说客户管理。另一篇业务管理，在[这里](http://5dw.top/2017/11/10/target-management/)。

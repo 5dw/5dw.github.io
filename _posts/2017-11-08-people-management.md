@@ -11,7 +11,6 @@ comment: true
 multilingual: false
 tags:
     - 企业管理
-    - 思考
 ---
 
 今天说一个一直不敢讲的话题，企业管理，尝试一下，一起思考。

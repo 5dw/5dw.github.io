@@ -10,7 +10,6 @@ catalog:    false
 comment: true
 multilingual: false
 tags:
-    - 思考
     - 自我管理
 ---
 
