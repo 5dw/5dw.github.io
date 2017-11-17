@@ -10,10 +10,7 @@ catalog:    false
 comment: true
 multilingual: false
 tags:
-    - 写作
-    - 博客
-    - 影响他人
-    - 战胜自我
+    - 思考
 ---
 
 > - ***"宇宙中有一条终极理论来解释一切，而这个终极理论必定是无比简单，却又无所不包。"***
