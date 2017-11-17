@@ -11,10 +11,8 @@ comment: true
 multilingual: false
 tags:
     - 博客
-    - Blog
     - Github
     - Jekyll
-    - Markdown
 ---
 
 ### 前提条件
