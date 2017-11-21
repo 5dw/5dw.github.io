@@ -6,7 +6,7 @@ date:       2014-04-07
 author:     "5dw"
 header-mask: 0.1
 catalog:    false
-comment: true
+comment: false
 multilingual: false
 tags:
     - 认知能力
