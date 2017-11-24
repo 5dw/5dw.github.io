@@ -14,7 +14,7 @@ tags:
     - 认知能力
 ---
 
-<small>*翻译自[博文](http://www.wearechainsaw.com/2017/05/03/hard-change-someones-mind-even/)*</small>
+<small>*翻译自[英文博文](http://www.wearechainsaw.com/2017/05/03/hard-change-someones-mind-even/)*</small>
 
 感觉起来，改变任何的想法应该都是很简单的事情，至少改变自己的想法应该很容易，对吧？
 
