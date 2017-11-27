@@ -10,7 +10,7 @@ catalog:    false
 comment: true
 multilingual: false
 tags:
-    -
+    - 认知能力
 ---
 
 看过两本书，张德芬的《遇到未知的自己》和朗达·拜恩的《秘密》。
